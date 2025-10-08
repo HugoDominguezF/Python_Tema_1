@@ -13,6 +13,7 @@ class Articulo:
     def getPVPDescuento(self,descuento):
         if descuento<101 and descuento>0:
             conDescuento = (self.precio+(self.precio*self.IVA)*((100-descuento)/100))
+        return conDescuento
     
     def vender(self,cantidad):
         if self.cuantosQuedan >= cantidad and cantidad>0:

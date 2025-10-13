@@ -1,0 +1,6 @@
+& C:/Users/HUGO/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/HUGO/Documents/GitHub/Python_Tema_1/Ficheros/Ejercicio1/Ejercicio.py
+& C:/Users/HUGO/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/HUGO/Documents/GitHub/Python_Tema_1/Ficheros/Ejercicio1/Ejercicio.py
+& C:/Users/HUGO/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/HUGO/Documents/GitHub/Python_Tema_1/Ficheros/Ejercicio1/Ejercicio.py
+& C:/Users/HUGO/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/HUGO/Documents/GitHub/Python_Tema_1/Ficheros/Ejercicio1/Ejercicio.py
+& C:/Users/HUGO/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/HUGO/Documents/GitHub/Python_Tema_1/Ficheros/Ejercicio1/Ejercicio.py
+& C:/Users/HUGO/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/HUGO/Documents/GitHub/Python_Tema_1/Ficheros/Ejercicio1/Ejercicio.py

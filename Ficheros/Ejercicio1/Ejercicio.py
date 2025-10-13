@@ -1,6 +1,5 @@
-
-with open("Alumnos.txt", "r") as f:
-    lineas = f.readlines()
+f = open('Ficheros\\Ejercicio1\\Alumnos.txt', 'rt')
+lineas = f.readlines()
 
 nombres = []
 edades = []
